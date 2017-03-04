@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout 
+    style="@style/hh_fi_fi"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <android.support.v7.widget.RecyclerView
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@color/black_light"
+	android:id="@+id/hh_rv_select_photo"
+	/>
+    <RelativeLayout 
+        style="@style/hh_fi_fi"
+        >
+        <RelativeLayout 
+            style="@style/hh_fi_wr"
+            android:id="@+id/hh_rl_select_photo_bottom"
+            android:layout_alignParentBottom="true"
+            android:paddingLeft="16dp"
+        	android:paddingRight="16dp"
+        	android:paddingTop="14dp"
+        	android:paddingBottom="14dp"
+        	android:background="@color/hh_select_photo_bottom"
+            >
+            <TextView 
+            style="@style/hh_wr_wr"
+            android:id="@+id/hh_tv_select_photo_name"
+            android:textColor="@color/hh_select_photo_arrow"
+            android:textSize="16sp"
+            android:text="图片和视频"
+            android:gravity="center_vertical"
+            android:drawableRight="@drawable/hh_select_photo_arrow"
+            />
+        </RelativeLayout>
+     <RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_above="@id/hh_rl_select_photo_bottom"
+    android:id="@+id/hh_rl_select_photo_type"
+    android:background="@color/hh_select_photo_type_window_bg"
+    >
+    <ListView 
+        style="@style/hh_listview"
+        android:layout_marginTop="50dp"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/hh_lv_photo_type"
+        >
+    </ListView>
+</RelativeLayout>
+    </RelativeLayout>
+</FrameLayout>
+
+

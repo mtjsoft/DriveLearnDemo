@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical" >
+
+    <com.huahan.hhbaseutils.view.PagerSlidingTabStrip
+        android:id="@+id/pt_my_order"
+        style="@style/hh_fi_wr"
+        android:layout_gravity="center"
+        android:background="@color/white"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:visibility="visible" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pt_vp_my_order"
+        style="@style/hh_fi_fi"
+        android:layout_marginTop="1dp" />
+
+</LinearLayout>

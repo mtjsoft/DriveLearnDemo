@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp" >
+    <LinearLayout
+        style="@style/hh_fi_wr"
+        android:orientation="horizontal" >
+
+        <android.support.v7.widget.AppCompatImageView
+            android:id="@id/hh_id_login_img_name"
+            style="@style/hh_wr_wr"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/hh_login_user_name" />
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/hh_til_login_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <android.support.v7.widget.AppCompatEditText
+                android:id="@id/hh_id_login_name"
+                style="@style/hh_edittext_default"
+                android:hint="@string/hh_login_name_hint"
+                android:singleLine="true" />
+        </android.support.design.widget.TextInputLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hh_fi_wr"
+        android:orientation="horizontal" >
+
+        <android.support.v7.widget.AppCompatImageView
+            android:id="@id/hh_id_login_img_pwd"
+            style="@style/hh_wr_wr"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/hh_login_user_pwd" />
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/hh_til_login_pwd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <android.support.v7.widget.AppCompatEditText
+                android:id="@id/hh_id_login_pwd"
+                style="@style/hh_edittext_default"
+                android:hint="@string/hh_login_pwd_hint"
+                android:inputType="textPassword"
+                android:singleLine="true" />
+        </android.support.design.widget.TextInputLayout>
+    </LinearLayout>
+
+    <com.huahan.hhbaseutils.view.processbutton.CircularProgressButton
+        android:id="@id/hh_id_login_login"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="16dp"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:cpb_cornerRadius="48dp"
+        app:cpb_selectorComplete="@drawable/hh_login_complete"
+        app:cpb_selectorError="@drawable/hh_login_error"
+        app:cpb_selectorIdle="@drawable/hh_login_idle"
+        app:cpb_textComplete="@string/hh_login_success"
+        app:cpb_textError="@string/hh_login_failed"
+        app:cpb_textIdle="@string/hh_login" />
+
+</LinearLayout>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.github.mtjsoft\HHBaseUtils\v1.0.4\jars\libs\open_sdk_r5509_lite.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="64d822c459475044e6cee3cb188c72b81aaa4310">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\open_sdk_r5509_lite_d0ab239dfc20b3298b46adf281d46dce16e1800e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_ee153d630bd70052223e7ae460ab1017219ae70b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_9851ffb2e7731f005b4616aa6633dbd86c50dc81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_7b75c3c8e3f75ae8847b59338dc87bcd51f71fe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.github.mtjsoft\HHBaseUtils\v1.0.4\jars\libs\ksoap2-android-assembly-2.5.7-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e5901d9d0561f835672e920ec671755fc5d4708">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\ksoap2-android-assembly-2.5.7-jar-with-dependencies_67e9d6ae4c26819cf937cf1ed8e803bf573f0655\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.github.mtjsoft\HHBaseUtils\v1.0.4\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="49bc2d83ccb0cfe1dbc853e3ba80db0f950ed96d">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\org.apache.http.legacy_9b3b9ed13055cfce8659856883e025bd1012e92c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.github.mtjsoft\HHBaseUtils\v1.0.4\jars\libs\weiboSDKCore_3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="019bbf4c11f28cd279ca2deb7df0bb488c7a24d1">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\weiboSDKCore_3.1.2_4114917a1719dc202b850e329c190b8f99e9ad43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.github.mtjsoft\HHBaseUtils\v1.0.4\jars\libs\baidumapapi_map_v3_7_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1a0df2737488c670584503cb231cdb7157c00d39">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\baidumapapi_map_v3_7_3_1cb2a1fec2bd37f64487da285bcc16cccae48045\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.github.mtjsoft\HHBaseUtils\v1.0.4\jars\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e2a9c788016ea496c76407f409d8d1cf69f43cb3">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\libammsdk_005f0ac7e5c6a7218f182b0a87fc2385a8cf1d7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_ba5d5de8aa4d7950f654d3ea3163e6a3ff5be07b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.github.mtjsoft\HHBaseUtils\v1.0.4\jars\libs\locSDK_6.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="38524b6ba51f9cab6674cc3d6d743164b9bdb4c0">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\locSDK_6.13_22070d3e8cfbc4c19d1d3016365836412920daa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.github.mtjsoft\HHBaseUtils\v1.0.4\jars\libs\baidumapapi_search_v3_7_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0b54719e7b8ce97fd215ebe652bbe35b5941fd91">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\baidumapapi_search_v3_7_3_1d4a57724022da133b1635628dfcfaf8c9fcc6ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_36d31dd20ab57e5ae36470e445ead1970faa07cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_d58e1393fae373ad09fb59f2fed4558b6213d868\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AMTJ_ANDROID_STUDIO\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_15b497df79f83efad0dd52497eeca0eb2311fda0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ef7c1465339a1ed4a0869c8c353e0b687901d524">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_630e9ddfc7e7d4491e2c915f5daba3b06026412d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="192af49cce59e00b343ee13a7ea5168cca14ae21">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d62d318125ea1e069555f97fc2f1d0dce8fe72df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.github.mtjsoft\HHBaseUtils\v1.0.4\jars\libs\baidumapapi_base_v3_7_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1d6cfeda3858e1baf80a4911d3407117d3e472f0">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\baidumapapi_base_v3_7_3_549f3c991cefa19b465c7d98eafdc2af691005a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\libs\litepal-1.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3044cfd502ecef0e4438ba41e5e291f338fe8d03">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\2\litepal-1.4.1_a717566c11b3afb0c2666b58e8c938746e33bfe6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.github.mtjsoft\HHBaseUtils\v1.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aa668fd56f2f455a2b5bdf8eb5ce0c94be61c910">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.mtjsoft-HHBaseUtils-v1.0.4_adbf137dfa1b484702d4e3bc8f581529e3952af9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\android_android_studio_work\ReaderViewPager\readerViewPager\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_02f552342ea07f7f2700e22e08d2eda2cb804e2e\classes.dex" />
+    </item>
+
+</items>

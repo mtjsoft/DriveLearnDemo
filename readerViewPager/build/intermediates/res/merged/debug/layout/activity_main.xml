@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <FrameLayout
+        android:id="@+id/fl_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/tv_choose_count" >
+
+        <com.huahan.readerviewpager.view.ReaderViewPager
+            android:id="@+id/rvp"
+            style="@style/hh_fi_fi" >
+        </com.huahan.readerviewpager.view.ReaderViewPager>
+
+        <TextView
+            android:id="@+id/tv_yinying"
+            android:layout_width="20dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/shape_g" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/tv_choose_count"
+        style="@style/hh_fi_wr"
+        android:layout_height="48dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/orange"
+        android:gravity="center"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

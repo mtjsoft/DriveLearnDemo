@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/hh_fi_fi" >
+
+    <!-- 发送消息模块和更多 -->
+
+    <LinearLayout
+        android:id="@+id/hh_ll_chat_more"
+        style="@style/hh_fi_wr"
+        android:layout_alignParentBottom="true" >
+
+        <LinearLayout
+            style="@style/hh_fi_wr"
+            android:background="@color/white"
+            android:orientation="horizontal"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp" >
+
+            <ImageView
+                android:id="@+id/hh_img_chat_voice_key"
+                style="@style/hh_wr_wr"
+                android:layout_gravity="bottom"
+                android:src="@drawable/hh_selector_img_chat_voice" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <FrameLayout
+                    android:id="@+id/hh_fl_chat_msg_edit"
+                    style="@style/hh_fi_wr" >
+
+                    <ImageView
+                        android:id="@+id/hh_img_chat_msg_edit_bg"
+                        style="@style/hh_fi_wr"
+                        android:layout_gravity="bottom"
+                        android:background="@drawable/hh_chat_msg_edit_bg" />
+
+                    <LinearLayout
+                        style="@style/hh_fi_wr"
+                        android:orientation="horizontal"
+                        android:paddingBottom="5dp"
+                        android:paddingLeft="5dp"
+                        android:paddingRight="5dp" >
+
+                        <EditText
+                            android:id="@+id/hh_et_chat_msg_edit"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:background="@null"
+                            android:maxLines="4" />
+
+                        <ImageView
+                            android:id="@+id/hh_img_chat_msg_emotion"
+                            android:layout_width="25dp"
+                            android:layout_height="25dp"
+                            android:layout_gravity="bottom"
+                            android:src="@drawable/hh_chat_emotion_normal" />
+                    </LinearLayout>
+                </FrameLayout>
+
+                <com.huahan.hhbaseutils.view.HHRecordButton
+                    android:id="@+id/hh_btn_chat_voice_record"
+                    style="@style/hh_fi_wr"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <FrameLayout
+                style="@style/hh_wr_wr"
+                android:layout_gravity="bottom" >
+
+                <ImageView
+                    android:id="@+id/hh_img_chat_more"
+                    style="@style/hh_wr_wr"
+                    android:layout_gravity="center"
+                    android:src="@drawable/hh_chat_more_normal" />
+
+                <TextView
+                    android:id="@+id/hh_tv_chat_msg_send"
+                    style="@style/hh_wr_wr"
+                    android:layout_gravity="center"
+                    android:background="@drawable/hh_chat_msg_send_bg_normal"
+                    android:text="@string/hh_chat_msg_send"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"
+                    android:visibility="invisible" />
+            </FrameLayout>
+        </LinearLayout>
+        <!-- 点击更多显示的内容 -->
+
+        <LinearLayout
+            android:id="@+id/hh_ll_chat_msg_more"
+            style="@style/hh_fi_wr"
+            android:visibility="gone"
+            android:orientation="vertical" >
+
+            <com.huahan.hhbaseutils.view.HHGridViewPager
+                android:id="@+id/hh_vp_chat_more"
+                style="@style/hh_fi_wr"
+                android:layout_height="200dp" >
+            </com.huahan.hhbaseutils.view.HHGridViewPager>
+
+            <com.huahan.hhbaseutils.view.HHSelectCircleView
+                android:id="@+id/hh_scv_idicator"
+                style="@style/hh_wr_wr"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="15dp" >
+            </com.huahan.hhbaseutils.view.HHSelectCircleView>
+
+            <LinearLayout
+                style="@style/hh_fi_wr"
+                android:orientation="horizontal" >
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/hh_rl_chat_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/hh_ll_chat_more"
+        android:background="@color/hh_chat_list_bg"
+        android:orientation="vertical" >
+
+        <android.support.v4.widget.SwipeRefreshLayout style="@style/hh_fi_fi" >
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/hh_rv_chat_list"
+                style="@style/hh_fi_fi" />
+        </android.support.v4.widget.SwipeRefreshLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

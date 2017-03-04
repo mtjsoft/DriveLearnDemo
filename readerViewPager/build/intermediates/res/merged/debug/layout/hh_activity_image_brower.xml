@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huahan.hhbaseutils.view.fabtoolbar.FABToolbarLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/black"
+    app:showDuration="600"
+    app:hideDuration="400"
+    app:rightMargin="30dp"
+    app:bottomMargin="30dp"
+    app:fadeInFraction="0.2"
+    app:fabDrawableAnimationEnabled="true"
+    android:id="@+id/hh_fab_image_brower"
+    app:fabId="@id/hh_id_fab_float_button"
+    app:containerId="@id/hh_id_fab_container"
+    app:fabToolbarId="@id/hh_id_fab_toolbar"
+    >
+    <com.huahan.utils.view.scaleimage.ScaleViewPager 
+        style="@style/hh_fi_fi"
+        android:id="@+id/hh_vp_image_brower"
+        >
+    </com.huahan.utils.view.scaleimage.ScaleViewPager>
+     <RelativeLayout
+            android:id="@id/hh_id_fab_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true">
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@id/hh_id_fab_float_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:fabSize="normal"
+                app:borderWidth="0dp"
+                android:src="@drawable/abc_ic_menu_moreoverflow_mtrl_alpha"/>
+
+        </RelativeLayout>
+         <LinearLayout
+            android:id="@id/hh_id_fab_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal">
+
+        </LinearLayout>
+   	<TextView 
+   	    style="@style/hh_wr_wr"
+   	    android:id="@+id/hh_tv_brower_position"
+   	    android:textColor="@color/white"
+   	    android:textSize="14sp"
+   	    android:layout_centerHorizontal="true"
+   	    android:layout_alignParentBottom="true"
+   	    android:layout_marginBottom="30dp"
+   	    />
+</com.huahan.hhbaseutils.view.fabtoolbar.FABToolbarLayout>

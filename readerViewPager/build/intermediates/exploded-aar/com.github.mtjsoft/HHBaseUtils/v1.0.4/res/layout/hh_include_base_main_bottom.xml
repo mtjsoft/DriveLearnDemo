@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/hh_rl_base_main"
+    android:layout_height="wrap_content"
+   >
+   <RadioGroup 
+       style="@style/hh_fi_wr"
+       android:id="@+id/hh_rg_base_main"
+       android:orientation="horizontal"
+       >
+   </RadioGroup>
+    
+
+</RelativeLayout>

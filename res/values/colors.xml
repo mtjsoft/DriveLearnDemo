@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 固定颜色开始 -->
+    <!-- 纯黑色 -->
+    <color name="black">#000000</color>
+    <!-- 黑色 -->
+    <color name="black_text">#323232</color>
+    <!-- 浅黑色 -->
+    <color name="black_little_text">#646464</color>
+    <!-- 灰色 -->
+    <color name="gray_text">#9F9F9F</color>
+    <!-- 浅灰 -->
+    <color name="gray_hint_text">#ABABAB</color>
+    <!-- 背景颜色 -->
+    <color name="background">#F5F5F5</color>
+    <!-- 半透明 黑 -->
+    <color name="half_transparent">#32323232</color>
+    <!-- 全透明 -->
+    <color name="transparent">#00000000</color>
+    <!-- 弹出框线的颜色 -->
+    <color name="check_code_line">#DBD9D8</color>
+    <!-- 主题色 -->
+    <color name="main_base_color">#157442</color>
+    <!-- 固定颜色结束 -->
+    <!-- 版本更新开始 -->
+    <color name="version_white_gray">#D6D6D6</color>
+    <!-- 白色（有一定透明度） -->
+    <color name="version_white_low">#eeffffff</color>
+    <!-- 版本更新结束 -->
+    <!-- 二维码颜色值 -->
+    <color name="google_share_text">#ff000000</color>
+    <color name="google_encode_view">#ffffffff</color>
+    <color name="google_contents_text">#ff000000</color>
+    <color name="google_sbc_layout_view">#ffffffff</color>
+    <color name="google_sbc_header_text">#ff808080</color>
+    <color name="google_sbc_header_view">#ffffffff</color>
+    <color name="google_sbc_list_item">#fffff0e0</color>
+    <color name="google_sbc_page_number_text">#ff000000</color>
+    <color name="google_sbc_snippet_text">#ff4b4b4b</color>
+    <color name="google_help_view">#ff404040</color>
+    <color name="google_help_button_view">#ffcccccc</color>
+    <color name="google_viewfinder_mask">#60000000</color>
+    <color name="google_result_view">#b0000000</color>
+    <color name="google_viewfinder_laser">#ffff0000</color>
+    <color name="google_viewfinder_frame">#ff000000</color>
+    <color name="google_possible_result_points">#c0ffff00</color>
+    <color name="google_result_image_border">#ffffffff</color>
+    <color name="google_result_points">#c000ff00</color>
+    <!-- 二维码颜色值结束 -->
+    <color name="wheel_timebtn_nor">#1D5CF1</color>
+    <color name="wheel_timebtn_pre">#CCCCCC</color>
+    <!-- 半透明 -->
+    <color name="item_bg">#88000000</color>
+    <!-- 白色 -->
+    <color name="common_white">#FFFFFF</color>
+    <color name="blue_text">#539FFF</color>
+    <color name="pink_red">#ff6464</color>
+    <color name="window_selector_background">#4c4c4c</color>
+    <color name="orange">#F07548</color>
+    <color name="orange_qian">#713717</color>
+
+</resources>

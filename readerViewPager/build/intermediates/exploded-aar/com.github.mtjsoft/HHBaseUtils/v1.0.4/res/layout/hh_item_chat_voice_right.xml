@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/hh_fi_wr"
+    android:orientation="vertical"
+    android:padding="@dimen/hh_chat_item_padding" >
+
+    <include layout="@layout/hh_item_chat_time" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right" >
+
+        <ImageView
+            style="@style/hh_chat_user_head"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            style="@style/hh_chat_user_name"
+            android:layout_marginRight="@dimen/hh_chat_name_head_margin"
+            android:layout_toLeftOf="@id/hh_id_chat_user_head" />
+
+        <LinearLayout
+            style="@style/hh_chat_content_layout"
+            android:layout_marginRight="@dimen/hh_chat_content_head_margin"
+            android:layout_toLeftOf="@id/hh_id_chat_user_head"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/hh_img_chat_type_sendfailed"
+                style="@style/hh_chat_msg_send_failed"
+                android:layout_marginRight="10dp" />
+
+            <ProgressBar
+                android:id="@+id/hh_pb_chat_msg"
+                style="@style/hh_chat_progress_bar"
+                android:layout_marginRight="10dp" />
+			<TextView 
+			    style="@style/hh_chat_voice_time"
+			    android:id="@+id/hh_tv_chat_voice_time"
+			    android:layout_gravity="center_vertical"
+			    android:layout_marginRight="10dp"
+			    />
+            <FrameLayout 
+                style="@style/hh_wr_wr"
+                >
+                
+            <LinearLayout
+                android:id="@+id/hh_ll_chat_voice_layout"
+                style="@style/hh_chat_voice_layout"
+                android:background="@drawable/hh_chat_right_bg"
+                android:gravity="center_vertical|right"
+                android:orientation="horizontal" >
+                <ImageView
+                    android:id="@+id/hh_img_chat_voice_content"
+                    style="@style/hh_chat_voice_content"
+                    android:background="@drawable/hh_chat_voice_right" />
+            </LinearLayout>
+            <ImageView 
+                style="@style/hh_wr_wr"
+                android:src="@drawable/hh_chat_voice_not_play"
+                android:id="@+id/hh_img_chat_voice_not_play"
+                android:layout_gravity="left|top"
+                />
+            </FrameLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

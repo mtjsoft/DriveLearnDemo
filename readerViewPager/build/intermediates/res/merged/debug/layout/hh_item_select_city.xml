@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/hh_fi_wr"
+    android:orientation="vertical" >
+    <TextView 
+        style="@style/hh_text_biref_black_14"
+        android:id="@+id/hh_tv_city_index"
+        android:background="@color/gray_light"
+        android:paddingLeft="16dp"
+        android:paddingStart="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"
+        />
+    <com.huahan.hhbaseutils.rippleview.MaterialRippleLayout 
+        style="@style/hh_fi_wr"
+       	xmlns:app="http://schemas.android.com/apk/res-auto" 
+        app:mrl_rippleAlpha="0.4"
+        app:mrl_rippleColor="@color/gray"
+        app:mrl_rippleHover="true"
+        android:id="@+id/hh_mrl_name"
+        app:mrl_rippleOverlay="true"
+        >
+        <TextView 
+        style="@style/hh_text_biref_black_18"
+        android:textSize="16sp"
+        android:id="@+id/hh_tv_city_name"
+        android:paddingLeft="16dp"
+        android:paddingStart="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="10dp"
+        android:background="@color/white"
+        android:drawableBottom="@drawable/hh_line"
+        android:drawablePadding="10dp"
+        />
+    </com.huahan.hhbaseutils.rippleview.MaterialRippleLayout>
+    
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/hh_top_height"
+    android:orientation="horizontal" >
+    <TextView 
+        style="@style/hh_wr_wr"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/hh_tv_top_back"
+        />
+    <TextView 
+       style="@style/hh_wr_wr"
+       android:layout_centerInParent="true"
+       android:id="@+id/hh_tv_top_title"
+       android:singleLine="true"
+       android:textSize="18sp"
+        />
+    <LinearLayout 
+        style="@style/hh_wr_fi"
+        android:paddingRight="8dp"
+        android:gravity="center_vertical"
+        android:id="@+id/hh_ll_top_more"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:orientation="horizontal"
+        >
+        <TextView 
+            style="@style/hh_wr_wr"
+            android:id="@+id/hh_tv_top_more"
+            />
+    </LinearLayout>
+   <TextView 
+       android:id="@+id/hh_tv_top_line"
+       style="@style/hh_fi_wr"
+       android:height="2dp"
+       android:layout_alignParentBottom="true"
+       />
+    
+
+</RelativeLayout>

@@ -1,0 +1,7 @@
+#Sat Mar 04 13:46:16 CST 2017
+base.0=F\:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_630e9ddfc7e7d4491e2c915f5daba3b06026412d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d62d318125ea1e069555f97fc2f1d0dce8fe72df\\classes.dex
+base.1=F\:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d62d318125ea1e069555f97fc2f1d0dce8fe72df
+file.0=F\:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_630e9ddfc7e7d4491e2c915f5daba3b06026412d\\classes.dex

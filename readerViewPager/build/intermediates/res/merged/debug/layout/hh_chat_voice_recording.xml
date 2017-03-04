@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/hh_wr_wr"
+    android:background="@drawable/hh_shape_chat_voice_record_bg"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <!-- 展示的录制的布局 -->
+
+    <LinearLayout
+        android:id="@+id/hh_ll_chat_voice_record"
+        style="@style/hh_wr_wr"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            style="@style/hh_wr_wr"
+            android:orientation="horizontal" >
+			<!-- 显示的是录制的图标 -->
+            <ImageView
+                style="@style/hh_wr_wr"
+                android:src="@drawable/hh_chat_voice_idicator" />
+			<!-- 展示的是录制的语音的强度  -->
+            <ImageView
+                android:id="@+id/img_voice_size"
+                style="@style/hh_wr_wr"
+                android:src="@drawable/hh_chat_voice_size_3" />
+        </LinearLayout>
+		<!-- 显示的是取消的提示 -->
+        <TextView
+            style="@style/hh_wr_wr"
+            android:layout_gravity="center_horizontal"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="@string/hh_chat_voice_move_cancel"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+	<!-- 显示的取消发送的布局 -->
+    <LinearLayout
+        android:id="@+id/hh_ll_chat_voice_cancel"
+        style="@style/hh_wr_wr"
+        android:orientation="vertical"
+        android:visibility="gone" >
+		<!-- 显示的取消的布局 -->
+        <ImageView
+            android:id="@+id/img_cancel"
+            style="@style/hh_wr_wr"
+            android:src="@drawable/hh_chat_voice_cancel" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/hh_chat_voice_cancel_bg"
+            android:gravity="center"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="@string/hh_chat_voice_up_cancel"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/hh_fi_wr"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/hh_ll_refresh_container"
+        android:layout_width="match_parent"
+        android:layout_height="60dip"
+        android:background="@drawable/hh_refresh_bg_loadbar"
+        android:gravity="center_vertical" >
+
+        <RelativeLayout style="@style/hh_wr_wr"
+            android:layout_marginLeft="16dp" 
+            >
+
+            <ImageView
+                android:id="@+id/hh_img_arrow_up"
+                android:layout_width="60dip"
+                android:layout_height="60dip"
+                android:scaleType="centerInside"
+                android:src="@drawable/hh_refresh_arrow_up" />
+
+            <com.huahan.hhbaseutils.view.spinnerload.SpinnerLoader
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/hh_img_arrow_load"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:visibility="gone"
+                app:point_color="@color/sky_blue_light" />
+        </RelativeLayout>
+
+        <LinearLayout
+            style="@style/hh_wr_wr"
+            android:layout_marginLeft="16dip"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <com.huahan.hhbaseutils.view.refreshlist.HandyTextView
+                android:id="@+id/hh_tv_refresh_title"
+                style="@style/hh_text_title_black_16"
+                android:textColor="@color/hh_refresh_text_title"
+                />
+
+            <com.huahan.hhbaseutils.view.refreshlist.HandyTextView
+                android:id="@+id/hh_tv_refresh_time"
+               style="@style/hh_text_title_black_12"
+                android:textColor="@color/hh_refresh_text_title"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f017.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f017.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f050.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f050.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f095.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f095.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f034.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f034.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f064.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f064.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f048.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f048.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f003.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f003.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f051.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f051.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f096.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f096.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f018.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f018.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f079.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f079.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f004.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f004.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f020.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f020.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f049.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f049.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f065.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f065.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f081.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f081.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f035.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f035.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f021.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f021.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f019.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f019.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f080.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f080.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f016.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f016.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f032.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f032.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f005.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f005.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f002.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f002.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f083.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f083.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f094.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f094.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f097.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f097.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f078.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f078.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f084.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f084.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f014.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f014.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f067.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f067.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f061.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f061.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f045.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f045.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f029.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f029.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f023.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f023.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f068.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f068.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f062.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f062.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f099.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f099.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f001.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f001.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f046.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f046.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f007.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f007.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f074.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f074.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f071.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f071.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f058.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f058.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f093.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f093.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f077.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f077.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f090.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f090.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f033.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f033.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f030.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f030.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f052.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f052.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f055.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f055.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f039.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f039.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f036.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f036.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f056.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f056.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f087.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f087.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f042.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f042.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f011.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f011.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f026.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f026.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f057.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f057.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f012.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f012.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f073.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f073.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f038.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f038.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f091.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f091.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f043.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f043.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f013.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f013.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f027.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f027.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f040.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f040.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f024.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f024.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f008.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f008.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f089.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f089.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f086.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f086.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f072.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f072.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f075.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f075.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f010.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f010.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f059.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f059.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f000.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f000.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f098.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f098.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f006.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f006.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f092.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f092.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f037.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f037.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f053.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f053.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f054.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f054.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f070.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f070.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f031.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f031.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f076.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f076.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f015.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f015.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f060.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f060.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f066.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f066.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f063.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f063.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f085.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f085.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f088.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f088.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f082.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f082.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\del_btn_nor.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\del_btn_nor.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f069.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f069.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f047.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f047.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f022.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f022.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f009.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f009.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f025.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f025.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f041.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f041.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f044.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f044.png"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f028.png",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\drawable-hdpi-v4\\f028.png"
+    }
+]

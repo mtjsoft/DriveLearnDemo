@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/hh_fi_wr"
+    android:paddingLeft="10dp"
+    android:paddingRight="30dp"
+    android:paddingTop="10dp"
+    android:paddingBottom="5dp"
+    >
+    <FrameLayout 
+         android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/hh_fl_item_photo_type"
+        >
+     <ImageView 
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="@drawable/hh_select_photo_type_default"
+        /> 
+     <ImageView 
+        android:layout_width="76dp"
+        android:layout_height="76dp"
+        android:scaleType="centerCrop"
+        android:layout_gravity="left|top"
+        android:id="@+id/hh_img_item_photo_type"
+        /> 
+    </FrameLayout>
+        
+    
+        <ImageView 
+            style="@style/hh_wr_wr"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/hh_select_photo_checked"
+            android:id="@+id/hh_img_item_photo_type_ischeck"
+            /> 
+        <LinearLayout 
+            style="@style/hh_fi_wr"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/hh_img_item_photo_type_ischeck"
+            android:layout_toRightOf="@id/hh_fl_item_photo_type"
+            android:orientation="vertical"
+            >
+            <TextView 
+                style="@style/hh_wr_wr"
+                android:id="@+id/hh_tv_item_photo_type_name"
+                android:textColor="@color/black_dim"
+                android:textSize="16sp"
+                android:singleLine="true"
+                />
+            <TextView 
+                style="@style/hh_wr_wr"
+                android:id="@+id/hh_tv_item_photo_type_count"
+                android:textSize="12sp"
+                android:textColor="@color/gray"
+                android:layout_marginTop="5dp"
+                />
+        </LinearLayout> 
+
+</RelativeLayout>

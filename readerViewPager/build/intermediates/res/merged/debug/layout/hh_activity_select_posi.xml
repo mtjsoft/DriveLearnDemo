@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/hh_fi_fi" >
+    <TextView 
+        style="@style/hh_fi_wr"
+        android:id="@+id/hh_tv_posi"
+        />
+
+    <com.baidu.mapapi.map.MapView
+        android:id="@+id/hh_mapview"
+        style="@style/hh_fi_fi"
+        android:clickable="true" />
+
+</RelativeLayout>

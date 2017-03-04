@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="HHBaseUtils-v1.0.4">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/readerViewPager/build/intermediates/exploded-aar/com.github.mtjsoft/HHBaseUtils/v1.0.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/readerViewPager/build/intermediates/exploded-aar/com.github.mtjsoft/HHBaseUtils/v1.0.4/jars/libs/ksoap2-android-assembly-2.5.7-jar-with-dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/readerViewPager/build/intermediates/exploded-aar/com.github.mtjsoft/HHBaseUtils/v1.0.4/jars/libs/org.apache.http.legacy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/readerViewPager/build/intermediates/exploded-aar/com.github.mtjsoft/HHBaseUtils/v1.0.4/jars/libs/baidumapapi_base_v3_7_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/readerViewPager/build/intermediates/exploded-aar/com.github.mtjsoft/HHBaseUtils/v1.0.4/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/readerViewPager/build/intermediates/exploded-aar/com.github.mtjsoft/HHBaseUtils/v1.0.4/jars/libs/baidumapapi_search_v3_7_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/readerViewPager/build/intermediates/exploded-aar/com.github.mtjsoft/HHBaseUtils/v1.0.4/jars/libs/open_sdk_r5509_lite.jar!/" />
+      <root url="jar://$PROJECT_DIR$/readerViewPager/build/intermediates/exploded-aar/com.github.mtjsoft/HHBaseUtils/v1.0.4/jars/libs/weiboSDKCore_3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/readerViewPager/build/intermediates/exploded-aar/com.github.mtjsoft/HHBaseUtils/v1.0.4/jars/libs/baidumapapi_map_v3_7_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/readerViewPager/build/intermediates/exploded-aar/com.github.mtjsoft/HHBaseUtils/v1.0.4/jars/libs/locSDK_6.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/readerViewPager/build/intermediates/exploded-aar/com.github.mtjsoft/HHBaseUtils/v1.0.4/jars/libs/libammsdk.jar!/" />
+      <root url="file://$PROJECT_DIR$/readerViewPager/build/intermediates/exploded-aar/com.github.mtjsoft/HHBaseUtils/v1.0.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

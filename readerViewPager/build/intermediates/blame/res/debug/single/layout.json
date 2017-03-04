@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_chat_voice_recording.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_chat_voice_recording.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_activity_main.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_activity_main.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\item_tv.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\src\\main\\res\\layout\\item_tv.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_item_chat_time.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_item_chat_time.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_item_image_brower.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_item_image_brower.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_include_city_header.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_include_city_header.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_include_progress_bar_circle.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_include_progress_bar_circle.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_item_chat_voice_left.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_item_chat_voice_left.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_item_select_city.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_item_select_city.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_activity_image_brower.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_activity_image_brower.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_pwd_divider.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_pwd_divider.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\popu_answer_count.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\src\\main\\res\\layout\\popu_answer_count.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_include_base_main_bottom.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_include_base_main_bottom.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_item_base_toolbar.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_item_base_toolbar.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_window_share.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_window_share.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_activity_base_main.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_activity_base_main.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_item_chat_image_right.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_item_chat_image_right.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_activity_select_photo.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_activity_select_photo.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_item_select_photo.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_item_select_photo.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_include_top_search.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_include_top_search.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_window_typelist_double.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_window_typelist_double.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_toast_huahan_custom.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_toast_huahan_custom.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_activity_refresh_listview.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_activity_refresh_listview.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_include_footer.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_include_footer.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_item_chat_voice_right.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_item_chat_voice_right.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\src\\main\\res\\layout\\fragment_view.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_activity_base_chat.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_activity_base_chat.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_include_pull_to_refresh.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_include_pull_to_refresh.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_activity_select_city.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_activity_select_city.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_item_chat_text_left.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_item_chat_text_left.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_pwd_textview.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_pwd_textview.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_include_top_default.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_include_top_default.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_item_chat_text_right.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_item_chat_text_right.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\fragmnet_kemu.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\src\\main\\res\\layout\\fragmnet_kemu.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_activity_login_material.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_activity_login_material.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_activity_listview.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_activity_listview.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_activity_splash.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_activity_splash.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_dialog_huahan_custom.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_dialog_huahan_custom.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_ad.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\src\\main\\res\\layout\\activity_my_ad.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_item_window_share.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_item_window_share.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_pwd_gridpasswordview.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_pwd_gridpasswordview.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_item_chat_image_left.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_item_chat_image_left.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_activity_select_posi.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_activity_select_posi.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_include_base_top.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_include_base_top.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_include_base_loadding.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_include_base_loadding.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\hh_item_select_photo_type.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\layout\\hh_item_select_photo_type.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    }
+]

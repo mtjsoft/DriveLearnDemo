@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\menu\\hh_top_menu.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\exploded-aar\\com.github.mtjsoft\\HHBaseUtils\\v1.0.4\\res\\menu\\hh_top_menu.xml"
+    },
+    {
+        "merged": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\android_android_studio_work\\ReaderViewPager\\readerViewPager\\src\\main\\res\\menu\\main.xml"
+    }
+]

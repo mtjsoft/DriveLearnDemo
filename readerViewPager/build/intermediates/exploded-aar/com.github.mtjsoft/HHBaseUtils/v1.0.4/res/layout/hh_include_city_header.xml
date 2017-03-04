@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/hh_fi_wr"
+    android:background="@color/white"
+    android:paddingBottom="10dp">
+	<LinearLayout
+        android:id="@+id/hh_ll_search"
+        style="@style/hh_fi_wr"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/hh_shape_edit_border_bg"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/hh_et_city_search"
+            style="@style/hh_fi_fi"
+            android:background="@null"
+            android:gravity="center_vertical"
+            android:drawableRight="@drawable/hh_search_city"
+            android:drawablePadding="5dp"
+            android:hint="@string/hh_input_city_search"
+            android:padding="10dp"
+            android:textColor="@color/black_dim"
+            android:textSize="16sp" 
+            android:singleLine="true"/>
+    </LinearLayout>
+    <RelativeLayout
+        style="@style/hh_fi_wr"
+        android:paddingLeft="10dp"
+        android:paddingRight="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/hh_ll_search" >
+
+        <TextView
+            android:id="@+id/hh_tv_city_location"
+            style="@style/hh_text_title_black_18"
+            android:layout_width="wrap_content"
+            android:layout_centerVertical="true"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/hh_tv_city"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/hh_selector_tv_city"
+            android:paddingBottom="8dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="8dp"
+            android:textColor="@color/black_light"
+            android:textSize="14sp" />
+
+        <com.huahan.hhbaseutils.view.spinnerload.SpinnerLoader
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/hh_sl_progress"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:visibility="gone"
+            app:point_color="@color/sky_blue" />
+    </RelativeLayout>
+
+</RelativeLayout>

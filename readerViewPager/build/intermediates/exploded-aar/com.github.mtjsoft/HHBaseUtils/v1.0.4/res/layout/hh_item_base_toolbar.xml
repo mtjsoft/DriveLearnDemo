@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/hh_top_toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="?attr/colorPrimary" >
+
+    <TextView
+        style="@style/hh_wr_wr"
+        android:id="@id/hh_id_top_title"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        />
+
+</android.support.v7.widget.Toolbar>
